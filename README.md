@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React Native's FlatList component: a TypeError when trying to access a property of an undefined or unexpected item within the data array. The `bug.js` file contains the problematic code, while `bugSolution.js` provides a solution to handle such situations gracefully.
